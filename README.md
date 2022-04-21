@@ -1,11 +1,12 @@
-# Hi 👋 My name is Ivan
+Hi 👋 I'm Ivan, Nice to see you!
+=====================
 
-## Full-stack Developer
+Full-stack Developer
+--------------------
 
-- 🌍  I'm based in Argentina
-- 🖥️  See my portfolio at [ivanwinslow.com.ar](http://ivanwinslow.com.ar)
-- ✉️  You can contact me at [ivankwinslow@gmail.com](mailto:ivankwinslow@gmail.com)
-- 🤝  I'm open to collaborating on ReactJS, GraphQL, NodeJS & Django
+* 🌍  I'm based in Argentina
+* 🖥️  See my portfolio at [ivanwinslow.com.ar](http://ivanwinslow.com.ar)
+* 🤝  I'm open to collaborating on ReactJS, GraphQL, NodeJS & Django
 
 ### Skills
 
@@ -27,9 +28,10 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/iwinslow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iwinslow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Ivan Winslow#3789" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/iwinslow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iwinslow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 

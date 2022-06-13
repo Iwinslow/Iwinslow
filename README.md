@@ -1,4 +1,4 @@
-Hi 👋 I'm Ivan, I’m looking forward to working with you!
+Hi 👋 I'm Ivan, I’m looking forward to work with you!
 =====================
 
 Full-stack Developer
